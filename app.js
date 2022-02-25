@@ -56,8 +56,3 @@ app.listen(3000, function() {
 });
 
 
-// API Key
-// 19cabd5af37a2961ea811d5a05899c24-us14
-
-// List Id
-// e68be85b61
